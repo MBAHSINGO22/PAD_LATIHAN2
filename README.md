@@ -80,6 +80,14 @@ Bilangan ganjil berkelipatan 3 dari 20 adalah:
 
 ---
 
+## 📸 Screenshot
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=Contoh+Grafik+Harga+Penjualan" alt="Contoh Grafik">
+</p>
+
+---
+
 ## ✍️ Author
 
 **MBAHSINGO22**  
