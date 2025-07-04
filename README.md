@@ -1,6 +1,6 @@
 <h1 align="center">📦 PAD_LATIHAN2</h1>
 <p align="center">
-  <b>Latihan Pemrograman Aplikasi Dasar</b><br>
+  <b>Latihan Pemrograman Analisis Data</b><br>
   <sub>Python scripts for number filtering and data visualization</sub>
 </p>
 
@@ -80,8 +80,6 @@ Bilangan ganjil berkelipatan 3 dari 20 adalah:
 
 ---
 
-## 📸 Screenshot
-
 <p align="center">
   <img src="https://via.placeholder.com/800x400.png?text=Contoh+Grafik+Harga+Penjualan" alt="Contoh Grafik">
 </p>
@@ -94,7 +92,3 @@ Bilangan ganjil berkelipatan 3 dari 20 adalah:
 🔗 [GitHub](https://github.com/MBAHSINGO22)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
