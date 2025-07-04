@@ -62,9 +62,3 @@ pip install matplotlib numpy
 ## 👨‍💻 Author
 
 - GitHub: [MBAHSINGO22](https://github.com/MBAHSINGO22)
-
----
-
-## 📝 Lisensi
-
-Repositori ini bebas digunakan untuk keperluan belajar dan akademik. Jika digunakan untuk publikasi, mohon cantumkan sumbernya.
