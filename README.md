@@ -29,8 +29,7 @@ Dirancang untuk pembelajaran dasar Python dan penggunaan pustaka visualisasi sep
 ```
 PAD_LATIHAN2/
 ├── no1.py         # Program mencari bilangan ganjil kelipatan 3
-├── no2.py         # Program membuat grafik harga kue
-└── README.md      # Dokumentasi proyek
+└── no2.py         # Program membuat grafik harga kue
 ```
 
 ---
